@@ -2,6 +2,7 @@
 ## Student, 3D designer & tinkerer
 ### I have been working with Blender since I was around 12 years old and love making passion projects!
 I also learnt to work with Arduino and ESP32/8266 devices and more. Software and hardware are just some of my many passions!
+I also maintain a couple of Minecraft servers and infrastructure for fun in my free time and am studying IoT at Thomas More University of Applied Sciences.
 
 * 🌍  I'm based in Belgium
 * ✉️  You can contact me at [inquiries.vaelux@outlook.com](mailto:inquiries.vaelux@outlook.com)
