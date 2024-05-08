@@ -5,7 +5,7 @@ I also learnt to work with Arduino and ESP32/8266 devices and more. Software and
 
 * 🌍  I'm based in Belgium
 * ✉️  You can contact me at [inquiries.vaelux@outlook.com](mailto:inquiries.vaelux@outlook.com)
-* 🚀  I'm currently working on [many things at once!](http:// )
+* 🚀  I'm currently working on many things at once!
 * 🤝  I'm open to collaborating on interesting projects and things that are in my skillset
 
 <a href="https://www.github.com/VaeluxV" target="_blank" rel="noreferrer"><img
