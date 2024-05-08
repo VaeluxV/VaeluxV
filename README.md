@@ -1,8 +1,15 @@
-Hi 👋 My name is Valerie
-========================Student, 3D designer & tinkerer-------------------------------I have been working with Blender since I was around 12 years old and love making passion projects! I also learnt to work with Arduino and ESP32/8266 devices and more. Software and hardware are just some of my many passions!* 🌍  I'm based in Belgium* ✉️  You can contact me at [inquiries.vaelux@outlook.com](mailto:inquiries.vaelux@outlook.com)* 🚀  I'm currently working on [many things at once!](http:// )* 🤝  I'm open to collaborating on interesting projects and things that are in my skillset
+# Hi 👋 My name is Valerie
+## Student, 3D designer & tinkerer
+### I have been working with Blender since I was around 12 years old and love making passion projects!
+I also learnt to work with Arduino and ESP32/8266 devices and more. Software and hardware are just some of my many passions!
+
+* 🌍  I'm based in Belgium
+* ✉️  You can contact me at [inquiries.vaelux@outlook.com](mailto:inquiries.vaelux@outlook.com)
+* 🚀  I'm currently working on [many things at once!](http:// )
+* 🤝  I'm open to collaborating on interesting projects and things that are in my skillset
 
 <a href="https://www.github.com/VaeluxV" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/VaeluxV?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitch.tv/vaelux_v" target="_blank" rel="noreferrer"><imgsrc="https://img.shields.io/twitch/status/vaelux_v?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS" /></a>
+src="https://img.shields.io/github/followers/VaeluxV?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 ### Skills
 
