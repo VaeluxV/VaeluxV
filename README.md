@@ -22,4 +22,4 @@ src="https://img.shields.io/github/followers/VaeluxV?logo=github&style=for-the-b
 
 <a href="http://www.github.com/VaeluxV"><img src="https://github-readme-stats.vercel.app/api?username=VaeluxV&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0D1117&hide_border=true&show_icons=true" alt="VaeluxV's GitHub stats" /></a>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=VaeluxV&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=VaeluxV&theme=darkhub&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
