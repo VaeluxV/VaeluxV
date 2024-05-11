@@ -24,4 +24,4 @@ src="https://img.shields.io/github/followers/VaeluxV?logo=github&style=for-the-b
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=VaeluxV&theme=darkhub&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=VaeluxV&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=VaeluxV&theme=react-dark&custom_title=VaeluxV's%20Public%20Contribution%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
