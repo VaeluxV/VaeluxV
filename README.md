@@ -5,8 +5,11 @@ I also learnt to work with Arduino and ESP32/8266 devices and more. Software and
 I also maintain a couple of Minecraft servers and infrastructure for fun in my free time and am studying IoT at Thomas More University of Applied Sciences.
 
 * 🌍  I'm based in Belgium
+* 🚄  I'm a big transport fan
+* 🌈  I'm 20 years old
 * ✉️  You can contact me at [inquiries.vaelux@outlook.com](mailto:inquiries.vaelux@outlook.com)
 * 🚀  I'm currently working on many things at once!
+* ✨  I have my own website [here!](https://vaelux.com)
 * 🤝  I'm open to collaborating on interesting projects and things that are in my skillset
 
 <a href="https://www.github.com/VaeluxV" target="_blank" rel="noreferrer"><img
