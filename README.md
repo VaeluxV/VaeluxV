@@ -12,8 +12,8 @@ I also maintain a couple of Minecraft servers and infrastructure for fun in my f
 * ✨  I have my own website [here!](https://vaelux.com)
 * 🤝  I'm open to collaborating on interesting projects and things that are in my skillset
 
-<a href="https://www.github.com/VaeluxV" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/VaeluxV?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+<!-- <a href="https://www.github.com/VaeluxV" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/VaeluxV?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a> -->
 
 <b>Skills</b>
 <p align="left">
@@ -27,4 +27,4 @@ src="https://img.shields.io/github/followers/VaeluxV?logo=github&style=for-the-b
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=VaeluxV&theme=darkhub&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=VaeluxV&theme=react-dark&custom_title=VaeluxV's%20Public%20Contribution%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<!-- [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=VaeluxV&theme=react-dark&custom_title=VaeluxV's%20Public%20Contribution%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
