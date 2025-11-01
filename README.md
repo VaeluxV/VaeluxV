@@ -1,4 +1,21 @@
-# Hi 👋 My name is Valerie
+<pre style="
+  all: unset;
+  display: block;
+  font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, 'Segoe UI Mono', 'Roboto Mono', 'Noto Mono', 'Ubuntu Mono', 'Courier New', monospace;
+  font-variant-ligatures: none;
+  white-space: pre;
+  line-height: 1.1;
+  color: inherit;
+">
+░██    ░██                       ░██                      
+░██    ░██                       ░██                      
+░██    ░██  ░██████    ░███████  ░██ ░██    ░██ ░██    ░██
+░██    ░██       ░██  ░██    ░██ ░██ ░██    ░██  ░██  ░██ 
+ ░██  ░██   ░███████  ░█████████ ░██ ░██    ░██   ░█████  
+  ░██░██   ░██   ░██  ░██        ░██ ░██   ░███  ░██  ░██ 
+   ░███     ░█████░██  ░███████  ░██  ░█████░██ ░██    ░██
+</pre>
+
 ## 3D designer & tinkerer
 ### I have been working with Blender since I was around 12 years old and love making passion projects!
 I also learnt to work with Arduino and ESP32/8266 devices and more. Software and hardware are just some of my many passions!
